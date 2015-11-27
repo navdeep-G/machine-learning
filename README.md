@@ -4,7 +4,6 @@ This repo contains materials about machine learning. This can range from impleme
 personally done to reference materials that I find extremely helpful (ranging from beginning to advanced).
 
 Software Uses is as follows:
-
--Matlab/Octave
--R
--Python
+- Matlab/Octave
+- R
+- Python
