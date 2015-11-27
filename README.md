@@ -1,3 +1,4 @@
-# Statistics-Computing
+# Machine Learning 
 
-This repo contains materials about computational statistics and mathematics. This can range from simulations to implemenations of algorithms. 
+This repo contains materials about machine learning. This can range from implementations/analysis I have 
+personally done to reference materials that I find extremely helpful (ranging from beginning to advanced).
