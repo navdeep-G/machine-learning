@@ -9,4 +9,5 @@ personally done to reference materials that I find extremely helpful (ranging fr
 - R (ML in R)
 - Python (ML in Python)
 - References (ML References)
+- Note: Working on adding a Julia ML overview to this repo.
 
